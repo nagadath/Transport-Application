@@ -1,0 +1,10 @@
+{
+    "cmake.sourceDirectory": "C:/D/21R11A05N1/flutter/flutter_application_2/linux",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "accessibility.signals.lineHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.positionHasError": {
+        "sound": "off"
+    }
+}
